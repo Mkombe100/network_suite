@@ -1,0 +1,1 @@
+sudo apt install nmap iproute2 net-tools traceroute  
