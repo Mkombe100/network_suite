@@ -1,1 +1,4 @@
 sudo apt install nmap iproute2 net-tools traceroute  
+
+====LISTING THE DEVICES IN NETWORK====
+sudo nmap -sn 172.30.114.0/24
